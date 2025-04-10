@@ -1,0 +1,35 @@
+Memory Pyramid System (Public Module Only)
+
+This is the finalized public documentation of the Memory Pyramid System, designed by M7428 in 2025.
+This version contains only the memory module portion of the full AI system.
+All emotional, behavioral, and personality control mechanisms remain strictly confidential.
+
+Structure
+
+Multi-layered memory abstraction: daily → weekly → monthly → yearly
+
+Emotionally weighted prioritization
+
+PDF and Word formats provided
+## Files
+- [Memory_Pyramid_AI_Paper_by_M7428_Final.pdf](./release/Memory_Pyramid_AI_Paper_by_M7428_Final.pdf)
+- [Memory_Pyramid_AI_Paper_by_M7428_Final.docx](./release/Memory_Pyramid_AI_Paper_by_M7428_Final.docx)
+
+License
+
+Non-commercial academic use only. No modification or derivative publication allowed.
+© M7428, 2025. All rights reserved.
+
+<pre><code>
+               ┌─────────────────────┐
+               │   Annual Insight    │  ← Year-end summary, value evolution, identity shifts
+               └─────────┬───────────┘
+                         │
+            ┌────────────▼────────────┐
+            │    Monthly Overview     │  ← Behavioral and emotional patterns, high-priority memories
+            └────────────┬────────────┘
+                         │
+            ┌────────────▼────────────┐
+            │     Daily Memory Log    │  ← Emotional scoring + learning + contextual behavior tags
+            └─────────────────────────┘
+</code></pre>
